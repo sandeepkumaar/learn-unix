@@ -13,10 +13,17 @@ linux based OS
 Note:
 1. ~ // refers to path of users home directory /home/sandeep
 2. $ // prompt symbol. denotes the end of cmd prompt so user can input
-3. # // prompt symbol for root user
+3. \# // prompt symbol for root user
 
 Note on root user:
 root user is the superuser account, unrestricted
 can perform system wide administrative functions
 
 Executing commands:
+
+## References
+ - https://www.digitalocean.com/community/tutorial_series/getting-started-with-linux
+ - https://www.shellscript.sh/
+ - http://www.yolinux.com/TUTORIALS/unix_for_dos_users.html
+ - https://en.wikipedia.org/wiki/Unix_philosophy
+ - http://hayne.net/MacDev/Notes/unixFAQ.html
